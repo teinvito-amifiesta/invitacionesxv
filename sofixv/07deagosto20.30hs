@@ -1290,7 +1290,7 @@ boton.innerText="Confirmar asistencia";
 
   const message = `Hola! Soy ${name}.\n\nTe envío las fotos y videos que tomé durante el evento 📸🎉`;
 
-  const whatsappUrl = `https://drive.google.com/drive/folders/1XX_tHYlig1iaHnyn_TsciUpJrWkzre9z?usp=sharing`;
+  const whatsappUrl = `https://drive.google.com/drive/folders/1j08pDTz4PAkRR6XzeTUYfSBQxYhF8XKe?usp=sharing`;
   window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
 });
 
